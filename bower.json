@@ -1,0 +1,15 @@
+{
+	"name": "test",
+	"version": "0.0.0",
+	"dependencies": {
+		"almond": "*",
+		"requirejs": "*",
+		"requirejs-text": "*",
+		"requirejs-domready": "*",
+		"jquery": "*",
+		"underscore-amd": "*",
+		"backbone-amd": "*",
+		"normalize-css": "*"
+	}
+}
+
